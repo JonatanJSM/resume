@@ -5,7 +5,7 @@ import aws from '../assets/aws.png';
 
 const features = [
     { name: 'Celular', description: '999-999-9999' },
-    { name: 'Correo', description: 'jonatanSantana@alumnos.uady.mx' },
+    { name: 'Correo', description: 'Santana@alumnos.uady.mx' },
     { name: 'País y Estado', description: 'México, Yucatán' },
     { name: 'GitHub', description: 'JonatanJSM' },
     { name: 'Linkedin', description: 'www.linkedin.com/in/jonatan-jafet-santana-may-70919425b' },

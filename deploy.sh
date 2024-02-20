@@ -6,7 +6,7 @@ cd resume/
 
 git pull origin master
 
-cp -r /home/user/resume/dist/* /var/www/html/
+sudo cp -r /home/user/resume/dist/* /var/www/html/
 
 sudo systemctl start nginx
 
